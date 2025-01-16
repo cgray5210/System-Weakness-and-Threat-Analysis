@@ -1,4 +1,4 @@
-# Vulnerability-Assessment-Report-Lab
+# System Weakness and Threat Analysis
 
 ## Objective
 
